@@ -1,2 +1,2 @@
 # CityLodge
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![mainpage](https://github.com/SiqiaoLi/CityLodge/tree/master/preview/cityLodgeMainpage.PNG)
